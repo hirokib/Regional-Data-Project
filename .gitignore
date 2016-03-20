@@ -1,0 +1,6 @@
+*.pyc
+*/__pycache__/*
+main.db 
+main.db-journal 
+venv/* 
+zipdata/* 
